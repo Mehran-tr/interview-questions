@@ -7,6 +7,18 @@ if you found these questions usefull click on Star
 You are very welcomed if You want to Contribute 🥳
 
 
+
+
+
+
+
+
+
+
+**************************************************************************************************************************************
+
+
+
 ### Q. ***What does PEAR stand for?***
 
 PEAR means “PHP Extension and Application Repository”. It extends PHP and provides a higher level of programming for web developers.
